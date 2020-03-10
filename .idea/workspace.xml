@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d0ced9-775d-44ad-bebc-415359a00712" name="Default Changelist" comment="" />
+    <list default="true" id="81d0ced9-775d-44ad-bebc-415359a00712" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSenior/day4/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSenior/day4/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaSenior/day4/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaSenior/day4/test/Test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W4RXabdDu2cgJaLZdlSmSw2lqa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,20 +30,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/blog" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4.test.Test" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.Test" />
       <module name="javaSenior" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4.test.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.test.Test3" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.test.Test" />
       <module name="javaSenior" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.test.*" />
+          <option name="PATTERN" value="day4.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test5" />
         <item itemvalue="Application.TestIt" />
         <item itemvalue="Application.TestPack" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +150,7 @@
       <workItem from="1579314110106" duration="14867000" />
       <workItem from="1579407585857" duration="15453000" />
       <workItem from="1579514617478" duration="371000" />
+      <workItem from="1583807203622" duration="688000" />
     </task>
     <servers />
   </component>
@@ -167,22 +178,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="100" width="1240" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579182693647" />
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1579451656533">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583808121265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579451656533" />
-    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1579451656533">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583808121265" />
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom" timestamp="1583808123671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579451656533" />
-    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1579451656533">
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583808123671" />
+    <state width="1877" height="157" key="GridCell.Tab.0.center" timestamp="1583808123671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579451656533" />
-    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1579451656533">
+    <state width="1877" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583808123671" />
+    <state width="1877" height="157" key="GridCell.Tab.0.left" timestamp="1583808123671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579451656533" />
+    <state width="1877" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583808123671" />
+    <state width="1877" height="157" key="GridCell.Tab.0.right" timestamp="1583808123671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583808123671" />
     <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1579451656533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
